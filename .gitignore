@@ -1,0 +1,22 @@
+# 운영체제
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 로그
+*.log
+npm-debug.log*
+
+# Node.js (로컬 테스트용)
+node_modules/
+
+# 주의: posts.json은 Git에 포함되어야 합니다!
+# posts.json을 .gitignore에 추가하지 마세요.
+
